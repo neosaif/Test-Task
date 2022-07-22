@@ -4,7 +4,9 @@ cd Test-Task
 
 npm install
 
-c//hange base url 
+//add local.properties
+
+//change base url 
 
 react-native start
 
